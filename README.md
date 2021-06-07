@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @BinariRandara
+- 🌱 I’m currently learning Software Engineering
